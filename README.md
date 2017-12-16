@@ -6,7 +6,7 @@ Instalador desarrollado en C# para la plataforma de windows
 <h1>Características</h1>
 <ul>
   <li>C#</li>
-  <li>.Net Framework 4.0+</li>
+  <li>.NET Framework 4.0+</li>
 </ul>
 <h1>Licencia</h1>
 GNU General Public License v3.0
