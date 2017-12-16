@@ -1,0 +1,91 @@
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\Instalador.exe.config
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\Instalador.exe
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\Instalador.pdb
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.exe
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.pdb
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.Splash.resources
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.Form1.resources
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\MetroFramework.Design.dll
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\MetroFramework.dll
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\bin\Debug\MetroFramework.Fonts.dll
+c:\users\angie mondalgo\documents\visual studio 2012\Projects\Instalador\Instalador\obj\Debug\Instalador.Form2.resources
+E:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe.config
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.exe
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.pdb
+E:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe
+E:\Instalador\Instalador\Instalador\bin\Debug\Instalador.pdb
+E:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Design.dll
+E:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.dll
+E:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Fonts.dll
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form1.resources
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form2.resources
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Splash.resources
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+F:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe.config
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.exe
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.pdb
+F:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe
+F:\Instalador\Instalador\Instalador\bin\Debug\Instalador.pdb
+F:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Design.dll
+F:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.dll
+F:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Fonts.dll
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form1.resources
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form2.resources
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Splash.resources
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+E:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form3.resources
+F:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form3.resources
+G:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe.config
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.exe
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.pdb
+G:\Instalador\Instalador\Instalador\bin\Debug\Instalador.exe
+G:\Instalador\Instalador\Instalador\bin\Debug\Instalador.pdb
+G:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Design.dll
+G:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.dll
+G:\Instalador\Instalador\Instalador\bin\Debug\MetroFramework.Fonts.dll
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form1.resources
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form2.resources
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Form3.resources
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Splash.resources
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+G:\Instalador\Instalador\Instalador\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\Instalador\Instalador\Instalador\obj\Debug\Instalador.csproj.ResolveComReference.cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\Instalador.exe.config
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.csproj.ResolveComReference.cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.exe
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.pdb
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\Instalador.exe
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\MetroFramework.Design.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\MetroFramework.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\MetroFramework.Fonts.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.Form1.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.Splash.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Instalador\bin\Debug\Instalador.pdb
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\Instalador.exe.config
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.csproj.ResolveComReference.cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.exe
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.pdb
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\Instalador.exe
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\Instalador.pdb
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.csprojResolveAssemblyReference.cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.Form1.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.Splash.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.Properties.Resources.resources
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\obj\Debug\Instalador.csproj.GenerateResource.Cache
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\MetroFramework.Design.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\MetroFramework.dll
+D:\TOÑO\Aplicaciones\Instalador final 1.0\Github\Instalador\bin\Debug\MetroFramework.Fonts.dll
